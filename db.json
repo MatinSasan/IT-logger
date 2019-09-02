@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Changed network card in server 007",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
-      "id": 1
+      "tech": "Mara Doe",
+      "date": "2019-09-02T17:10:35.453Z"
     },
     {
       "id": 2,
@@ -15,18 +15,18 @@
       "date": "2019-05-31T16:18:04.245Z"
     },
     {
+      "id": 3,
       "message": "1122 wireless down",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "tech": "Sara Doe",
+      "date": "2019-09-02T17:10:28.454Z"
     },
     {
       "id": 4,
       "message": "Workstation 026 is up and running",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "tech": "Sara Doe",
+      "date": "2019-09-02T17:09:36.189Z"
     }
   ],
   "techs": [
